@@ -61,3 +61,90 @@ body {
 h1 {
     letter-spacing: 5px;
 }
+
+.icons {
+    display: flex;
+    text-align: center;
+    position: relative;
+    font-size: 50px;
+    padding-bottom: 90px;
+
+
+
+}
+
+.fa-code {
+    display: inline-flex !important;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    width: 95px;
+    height: 100px;
+    flex-direction: row;
+    background-color: #3ec6ff;
+    color: white;
+    border-radius: 50%;
+
+
+}
+
+.fa-paint-brush {
+    display: inline-flex !important;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    width: 95px;
+    height: 100px;
+    flex-direction: row;
+    background-color: darkred;
+    color: white;
+    border-radius: 50%;
+
+
+}
+
+.fa-clone {
+    display: inline-flex !important;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    width: 95px;
+    height: 100px;
+    flex-direction: row;
+    background-color: darkolivegreen;
+    color: white;
+    border-radius: 50%;
+
+
+}
+
+.fa-copy {
+    display: inline-flex !important;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    width: 95px;
+    height: 100px;
+    flex-direction: row;
+    background-color: darkorange;
+    color: white;
+    border-radius: 50%;
+
+
+}
+.icon-text h6
+{
+    padding-top: 20px;
+    color: rgb(134, 134, 134);
+    
+
+}
+.icon-text p
+{
+        font-size: 14px;
+        font-family: "Roboto";
+        color: rgb(134, 134, 134);
+        text-align: center;
+        height: 45px;
+        margin-bottom: 90px;
+      }
