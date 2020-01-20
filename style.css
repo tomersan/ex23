@@ -148,3 +148,42 @@ h1 {
         height: 45px;
         margin-bottom: 90px;
       }
+
+      .newslatter
+      {
+         background: url(images/22589.jpg)no-repeat center center; 
+         background-size: cover;
+         display: flex;
+         justify-content: space-between;
+         align-items: center;
+         height: 200px;
+         width: 100%;
+         margin-bottom: 90px;
+         background-color: rgba(134, 134, 134, 0.9);
+         opacity: 0.85;
+          
+      }
+
+    
+      .titleEmail{
+        color: #ffffff;
+      }
+
+      #email{
+        width: 100%;
+        background-color: transparent;
+        color: #ffffff;
+    } 
+
+    .submit
+    {
+        border: 0px;
+        border-radius: 4px;
+        background-color:darkorange;
+        left: 1175px;
+        top: 1630px;
+        color: white;
+        height: 38px;
+        width: 50%;
+
+      }
