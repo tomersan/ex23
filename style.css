@@ -187,3 +187,21 @@ h1 {
         width: 50%;
 
       }
+      .gallery{
+        flex-wrap: nowrap;
+       margin: 0px;
+       padding: 0px;
+    }
+    .row
+    {
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+    }
+       .img-gallery{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       margin-bottom: 90px;
+       
+    }
